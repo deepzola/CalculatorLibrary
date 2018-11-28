@@ -9,7 +9,6 @@
    
    steps:
     #Step 1: Obtain Repo from github
-    
     - checkout
     #Step 2: create virtual env and install dependencies
     - run:
